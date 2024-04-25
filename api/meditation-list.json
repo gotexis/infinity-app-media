@@ -9,6 +9,24 @@
         "image": "https://i.imgur.com/Llb1JbY.jpeg"
     },
     {
+        "id": 124,
+        "type": "voice",
+        "artist": "Yadis",
+        "file": "media/meditation-2.mp3",
+        "title": "冥想 - 雅迪斯引导",
+        "duration": 180000,
+        "image": "https://i.imgur.com/Llb1JbY.jpeg"
+    },
+    {
+        "id": "rain",
+        "type": "music",
+        "title": "雨声",
+        "artist": "Youtube",
+        "file": "media/rain.mp3",
+        "duration": 60000,
+        "image": "https://i.imgur.com/Llb1JbY.jpeg"
+    },
+    {
         "id": 1,
         "type": "music",
         "title": "走路冥想",
